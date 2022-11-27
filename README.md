@@ -21,4 +21,4 @@ The main application contains two types of Jobs:
 
 6. Currently, the cron trigger schedules are collected from appsettings. But you can modify the code to fetch the schedule time from database as well.
 
-**You can view the complete article at [Medium](https://medium.com/@zuhairmhtb/cron-scheduler-with-net-core-and-quartz-d2361aa2bf1b).
+**You can view the complete article at [Medium](https://medium.com/@zuhairmhtb/cron-scheduler-with-net-core-and-quartz-d2361aa2bf1b).**

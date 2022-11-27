@@ -20,3 +20,5 @@ The main application contains two types of Jobs:
 5. Update the cron schedule time in the appsettings and you will see that the schedule of the worker changes automatically without requiring a restart of the application.
 
 6. Currently, the cron trigger schedules are collected from appsettings. But you can modify the code to fetch the schedule time from database as well.
+
+**You can view the complete article at [Medium](https://medium.com/@zuhairmhtb/cron-scheduler-with-net-core-and-quartz-d2361aa2bf1b).
